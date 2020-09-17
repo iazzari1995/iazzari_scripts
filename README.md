@@ -12,4 +12,4 @@ The libraries and how install will be in the jupyter files
 
 # Scripts for getting stocks
 
-[Folder of Selenium scripts](https://github.com/iazzari1995/iazzari_scripts/tree/master/stockAutomations)
+[Folder of Selenium scripts](https://github.com/iazzari1995/iazzari_scripts/tree/master/selenium)
