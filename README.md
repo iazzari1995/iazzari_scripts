@@ -10,6 +10,12 @@ The libraries and how install will be in the jupyter files
 
 [Folder of Google Sheets](https://github.com/iazzari1995/iazzari_scripts/tree/master/googleSheet)
 
-# Scripts for getting stocks
+# Scripts of finance  getting stocks
 
-[Folder of Selenium scripts](https://github.com/iazzari1995/iazzari_scripts/tree/master/selenium)
+[Folder of finance](https://github.com/iazzari1995/iazzari_scripts/tree/master/financialScripts)
+
+
+# Scripts using Selenium
+
+[Getting stocks with Selenium](https://github.com/iazzari1995/iazzari_scripts/blob/master/financialScripts/getStockHistoricalValuesWithSelenium.ipynb)
+Folder of Selenium scripts
