@@ -1,6 +1,6 @@
 # Automation things
 
-This README has examples of simple automations daily that I did and help me a lot on a daily basis.
+This repository has examples of simple automations daily that I did and help me a lot on a daily basis.
 
 # Requirements
 
