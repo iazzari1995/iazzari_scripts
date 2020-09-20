@@ -20,3 +20,12 @@ The libraries and how install will be in the jupyter files
 
 [Getting stocks with Selenium for used](https://github.com/iazzari1995/iazzari_scripts/blob/master/financialScripts/getStockHistoricalValuesWithSelenium.ipynb)
 
+[Getting stocks with investpy for visualization](https://nbviewer.jupyter.org/github/iazzari1995/iazzari_scripts/blob/master/financialScripts/getStockHistoricalValuesWithSelenium.ipynb)
+
+[Getting stocks with investpy for used](https://github.com/iazzari1995/iazzari_scripts/blob/master/financialScripts/getStockHistoricalValuesWithSelenium.ipynb)
+
+[Getting stocks with Selenium for visualization](https://nbviewer.jupyter.org/github/iazzari1995/iazzari_scripts/blob/master/financialScripts/getStockHistoricalValuesWithSelenium.ipynb)
+
+[Getting stocks with Selenium for used](https://github.com/iazzari1995/iazzari_scripts/blob/master/financialScripts/getStockHistoricalValuesWithSelenium.ipynb)
+
+iazzari1995/iazzari_scripts/blob/master/financialScripts/study%20of%20FIIs.ipynb
