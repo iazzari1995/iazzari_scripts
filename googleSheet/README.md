@@ -5,7 +5,8 @@ In it, I show how start with the API and how to do for read, clear and/or write 
 
 # Preview of scripts
 
-[googleSheetFunctions](googleSheetFunctions.ipynb
+[googleSheetFunctions for visualization](https://nbviewer.jupyter.org/github/iazzari1995/iazzari_scripts/blob/master/googleSheet/googleSheetFunctions.ipynb)
+
 
 # Connecting in Google Sheets API
 
