@@ -17,6 +17,6 @@ The libraries and how install will be in the jupyter files
 # Scripts using Selenium
 
 [Getting stocks with Selenium for visualization](https://nbviewer.jupyter.org/github/iazzari1995/iazzari_scripts/blob/master/financialScripts/getStockHistoricalValuesWithSelenium.ipynb)
+
 [Getting stocks with Selenium for used](https://github.com/iazzari1995/iazzari_scripts/blob/master/financialScripts/getStockHistoricalValuesWithSelenium.ipynb)
 
-# Selenium scripts
