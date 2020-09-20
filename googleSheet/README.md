@@ -3,11 +3,6 @@
 In the gooleSheet's folder have some automation scripts and little hacks for use with google sheets.
 In it, I show how start with the API and how to do for read, clear and/or write in your Google sheets with just a simple Python code and share with API's email.
 
-# Preview of scripts
-
-[googleSheetFunctions for visualization](https://nbviewer.jupyter.org/github/iazzari1995/iazzari_scripts/blob/master/googleSheet/googleSheetFunctions.ipynb)
-
-
 # Connecting in Google Sheets API
 
 Go to: [Console of Google Cloud Platform](https://console.cloud.google.com/)
