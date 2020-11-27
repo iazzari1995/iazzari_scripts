@@ -58,8 +58,8 @@ def insertSpreadsheet(sheet, df):
         try:
             val = df.iloc[cell.row-2,cell.col-1]
             if type(val) is str:
-                val = val
-
+                # val = val
+                pass
         except:
             val = ""
         cell.value = val
