@@ -42,7 +42,8 @@ def insertSpreadsheet(sheet, df):
     for cell in cellList:
         val = columns[cell.col-1]
         if type(val) is str:
-            val = val
+            # val = val
+            pass
         cell.value = val
     # update in batch
     sheet.update_cells(cellList)
